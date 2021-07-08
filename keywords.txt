@@ -2,16 +2,17 @@
 # Classes
 ################################
 
-placeholder	KEYWORD1
+MaquinitasRitmos	KEYWORD1
 
 ################################
 # Methods and functions
 ################################
 
-# placeholder	KEYWORD2
+getTempo		KEYWORD2
+setTempo		KEYWORD2
 
 ################################
 # Constants
 ################################
 
-placeholder	LITERAL1
+tempo			LITERAL1
