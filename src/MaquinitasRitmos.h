@@ -3,9 +3,7 @@
 
 class MaquinitasRitmos {
   public:
-    MaquinitasRitmos() {
-    
-  }
+    MaquinitasRitmos();
 
   void setTempo(float newTempo);
   float getTempo();
